@@ -5,18 +5,18 @@ Welcome to my cybersecurity lab! This is where I document everything I've done a
 
 
 ## 🧪 Projects
-- [Linux 5-Day Challenge](./1_projects/linux-5day-challenge/)
-- [Privilege Escalation Lab](./1_projects/privilege-escalation-lab/)
-- [OverTheWire Bandit](./1_projects/over-the-wire-bandit/)
+- [Linux 5-Day Challenge]
+- [Privilege Escalation Lab.
+- [OverTheWire Bandit]
 
 
 ## 📚 Courses
-- [Cisco Network Security](./2_courses/network-security-cisco/)
+- [Cisco Network Security]
 - [Cisco Network Security (pending)
 
 
 ## 🏅 Certifications
-- [Cybersecurity Essentials - Cisco](./3_certifications/cybersecurity-essentials-cisco.pdf)
+- [Cybersecurity Essentials - Cisco]
 - Pending...
 
 
@@ -31,7 +31,7 @@ Welcome to my cybersecurity lab! This is where I document everything I've done a
 
 
 ## 📝 Writeups
-- [Privilege Escalation – SUID Techniques](./7_writeups/suid.md)
+- [Privilege Escalation – SUID Techniques]
 
 ---
 
