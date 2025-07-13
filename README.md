@@ -1,7 +1,7 @@
 # CYBERSECURITY-JOURNEY-
 My journey into becoming a Cybersecurity expert.
 
-Welcome to my cybersecurity lab! This is where I document everything I've done and learned in my journey to become an ethical hacker and digital defender. Overtime, I'll be updating this profile, hence stay tuned.
+Welcome to my cybersecurity lab! This is where I document everything I've done and learned in my journey to become an ethical hacker and digital defender. Overtime, I'll be updating this profile, hence, stay tuned.
 
 
 ## 🧪 Projects
@@ -12,7 +12,7 @@ Welcome to my cybersecurity lab! This is where I document everything I've done a
 
 ## 📚 Courses
 - [Cisco Network Security]
-- [Cisco Network Security (pending)
+- Introduction to Cybersecurity.
 
 
 ## 🏅 Certifications
@@ -21,8 +21,10 @@ Welcome to my cybersecurity lab! This is where I document everything I've done a
 
 
 
-## 🧑🏽‍💻 Internships
-- Virtual Internship with XYZ Company(pending)
+## 🧑🏽‍💻 Internships and Bootcamps
+Devtown Bootcamp
+[ZO5Rbp.pdf](https://github.com/user-attachments/files/21205588/ZO5Rbp.pdf)
+
 
 ---
 
