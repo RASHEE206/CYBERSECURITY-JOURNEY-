@@ -25,6 +25,9 @@ Welcome to my cybersecurity lab! This is where I document everything I've done a
 ## 🧑🏽‍💻 Internships and Bootcamps
 Devtown Bootcamp
 [ZO5Rbp.pdf](https://github.com/user-attachments/files/21205588/ZO5Rbp.pdf)
+Techcrush Bootcamp 
+![IMG-20250415-WA0000](https://github.com/user-attachments/assets/ef174f75-cbb1-4f0f-b3ef-04ecccd637ed)
+
 
 
 ---
