@@ -17,7 +17,8 @@ Welcome to my cybersecurity lab! This is where I document everything I've done a
 
 ## 🏅 Certifications
 - [Cybersecurity Essentials - Cisco]
-- Pending...
+- [_certificate_harunarashidatabiodun-gmail-com_7000484c-ca84-4978-9cbe-ed732836bb6b (1).pdf](https://github.com/user-attachments/files/21205645/_certificate_harunarashidatabiodun-gmail-com_7000484c-ca84-4978-9cbe-ed732836bb6b.1.pdf)
+- [certificate.pdf](https://github.com/user-attachments/files/21205655/certificate.pdf)
 
 
 
@@ -33,9 +34,12 @@ Devtown Bootcamp
 
 
 ## 📝 Writeups
-- [Privilege Escalation – SUID Techniques]
+https://www.linkedin.com/in/haruna-rasheedah-62622730b?utm_source=share&utm_campaign=share_via&utm_c
 
----
+
 
 ## 🎯 Events & Competitions
--Pending 
+1.IOT West Africa.
+
+
+
