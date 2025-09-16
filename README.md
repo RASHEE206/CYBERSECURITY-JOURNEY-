@@ -8,17 +8,20 @@ Welcome to my cybersecurity lab! This is where I document everything I've done a
 - [Linux 5-Day Challenge]
 - [Privilege Escalation Lab.
 - [OverTheWire Bandit]
+- Networking Labs
 
 
 ## 📚 Courses
 - [Cisco Network Security]
 - Introduction to Cybersecurity.
+- Networking Basics 
 
 
 ## 🏅 Certifications
 - [Cybersecurity Essentials - Cisco]
 - [_certificate_harunarashidatabiodun-gmail-com_7000484c-ca84-4978-9cbe-ed732836bb6b (1).pdf](https://github.com/user-attachments/files/21205645/_certificate_harunarashidatabiodun-gmail-com_7000484c-ca84-4978-9cbe-ed732836bb6b.1.pdf)
 - [certificate.pdf](https://github.com/user-attachments/files/21205655/certificate.pdf)
+- Networking Basics- CiscoNetAcad.
 
 
 
