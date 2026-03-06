@@ -22,6 +22,7 @@ Welcome to my cybersecurity lab! This is where I document everything I've done a
 - [_certificate_harunarashidatabiodun-gmail-com_7000484c-ca84-4978-9cbe-ed732836bb6b (1).pdf](https://github.com/user-attachments/files/21205645/_certificate_harunarashidatabiodun-gmail-com_7000484c-ca84-4978-9cbe-ed732836bb6b.1.pdf)
 - [certificate.pdf](https://github.com/user-attachments/files/21205655/certificate.pdf)
 - Networking Basics- CiscoNetAcad.
+- Google Cybersecurity Certificate <img width="600" height="600" alt="google-cybersecurity-professional-certificate-v-2" src="https://github.com/user-attachments/assets/979c86cb-dc69-41ca-86e3-f7229184856d" />
 
 
 
